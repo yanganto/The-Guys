@@ -2,7 +2,7 @@
 title = "產品服務"
 date = 2025-09-22
 description = "啤酒的靈魂"
-extra = {header_img = "/img/IMG_3800.jpg"}
+extra = {header_img = "IMG_3800.jpg"}
 +++
 # 酵母
 ## 什麼是酵母

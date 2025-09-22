@@ -1,17 +1,11 @@
-{ source, stdenv, zola, uglify-js, clean-css-cli }:
+{ source, stdenv, zola, build-params }:
   stdenv.mkDerivation rec {
-    pname = "MD-site";
+    pname = "The-Guys";
     version = "0.1.0";
     src = builtins.toString source;
-    nativeBuildInputs = [ zola uglify-js clean-css-cli ];
+    nativeBuildInputs = [ zola ];
     buildPhase = ''
-      cd static
-      find js -type f -exec uglifyjs {} -o production/{} \;
-      rm -rf js
-      find css -type f -exec cleancss -o production/{} {} \;
-      rm -rf css
-      cd ..
-      ${zola}/bin/zola build
+      ${zola}/bin/zola build ${build-params}
     '';
     installPhase = "cp -r public $out";
 }

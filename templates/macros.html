@@ -12,7 +12,7 @@
   <link rel="icon" type="image/x-icon" href="{{ config.extra.favicon }}">
   {% endif %}
 
-  <link rel="stylesheet" href="{{ config.base_url ~ "/main.css" }}">
+  <link rel="stylesheet" href="{{ config.base_url ~ "main.css" }}">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css" />
 </head>
 {% endmacro head %}
@@ -47,7 +47,7 @@
   {% if lang == 'zh-Hant' %}
     {{path}}
   {% else %}
-    {{lang}}{{path}}
+    {{lang}}/{{path}}
   {% endif %}
 {% endmacro get_url %}
 

@@ -2,7 +2,7 @@
 title = "About Us"
 date = 2025-09-22
 description = "Original"
-extra = {header_img = "/img/IMG_6172.jpg"}
+extra = {header_img = "IMG_6172.jpg"}
 +++
 
 # About The Guys

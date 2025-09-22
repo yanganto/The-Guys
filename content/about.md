@@ -2,7 +2,7 @@
 title = "關於我們"
 date = 2025-09-22
 description = "緣起"
-extra = {header_img = "/img/IMG_6172.jpg"}
+extra = {header_img = "IMG_6172.jpg"}
 +++
 
 # 關於樂凱斯

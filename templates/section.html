@@ -9,14 +9,14 @@
         <div id="index-header">
             <canvas id="stars"></canvas>
             <h1 class="andromeda-header-text">
-                <a href="{{ get_url(path='/', lang=lang) }}">{{ config.title }}</a>
+                <a href="{{ get_url(path='', lang=lang) }}">{{ config.title }}</a>
             </h1>
             <span class="header-link-container">
                 {% for link in config.extra.header_links %}
                 {% if link.switch_lang  %}
-                    <a href="{{ get_url(path=link.path, lang=link.switch_lang[lang]) }}" class="header-link" target="_blank">{{ link.display[lang] }}</a>
+                    <a href="{{ get_url(path=link.path, lang=link.switch_lang[lang]) }}" class="header-link">{{ link.display[lang] }}</a>
                 {% else %}
-                    <a href="{{ get_url(path=link.path, lang=lang) }}" class="header-link" target="_blank">{{ link.display[lang] }}</a>
+                    <a href="{{ get_url(path=link.path, lang=lang) }}" class="header-link">{{ link.display[lang] }}</a>
                 {% endif %}
 
                 {% endfor %}
@@ -31,9 +31,9 @@
             <div class="posts">
                 {%- if pages -%}
                 {% for page in pages %}
-                <a class="stretched" href="{{config.base_url}}/{{page.path}}">
+                <a class="stretched" href="{{ get_url(path=page.path, lang=lang) }}">
                     <div class="post-container">
-                        <img data-src="{{page.extra.header_img}}" class="lozad" data-placeholder-background="darkgrey">
+                        <img data-src="{{config.base_url}}img/{{page.extra.header_img}}" class="lozad" data-placeholder-background="darkgrey">
                         <div class="post-text">
                             <h2 class="post-title">{{ page.title | safe }}</h2>
                             <span class="post-description">{{ page.description | safe }}</span>
