@@ -1,0 +1,25 @@
+# Site title
+base_url = "https://andromeda-theme.netlify.app"
+description = "Photography journal theme for Zola"
+compile_sass = true
+author = "The Guys"
+
+default_language = "zh-Hant"
+
+[languages.zh-Hant]
+title = "樂凱斯貿易"
+
+[languages.en]
+title = "THE GUYS"
+
+[extra]
+header_links = [
+    {name = "about", path = "/about", display = { en = "About us", zh-Hant = "關於我們" }},
+    {name = "product", path = "", display = { en = "Products & Services", zh-Hant = "產品服務" }},
+{name = "lang", path = "/", display = { en = "中文", zh-Hant = "English" }, switch_lang = {en = "zh-Hant", zh-Hant = "en" } }
+]
+
+# license = "CC BY-NC 2.0"
+email = "info@theguystrading.com.tw"
+# name = "The Guys"
+# favicon = "/images/favicon.ico"

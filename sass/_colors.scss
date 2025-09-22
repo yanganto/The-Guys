@@ -1,0 +1,38 @@
+// Colors
+$andromeda-dark: #17365d; // 23 54 93
+$andromeda-light: #e7e7e7;
+$andromeda-light-dark: #bdc5d1; // 189 197 209
+$andromeda-link: #83c2ef;
+$andromeda-link-dark: #4f545a;
+
+// Font config
+@font-face {
+    font-family: "Handlee";
+    src: url("../fonts/handlee.ttf") format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: "Orbitron";
+    src: url("../fonts/orbitron.ttf") format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: "PT Serif";
+    src: url("../fonts/ptserif-reg.ttf") format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: "PT Serif Bold";
+    src: url("../fonts/ptserif-bold.ttf") format("truetype");
+    font-style: normal;
+}
+@font-face {
+    font-family: "PT Serif Italic";
+    src: url("../fonts/ptserif-italic.ttf") format("truetype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/montserrat.ttf") format("truetype");
+    font-style: normal;
+}
