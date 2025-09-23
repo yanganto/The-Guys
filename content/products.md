@@ -19,7 +19,7 @@ _「釀酒師製作麥汁，酵母才真正釀出啤酒。」_
 <div class="gallery">
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg"></a>
       <a href="/img/IMG_4164.jpg" data-ngthumb="/img/IMG_4164.jpg"></a>
-      <a href="/img/35A9717.jpg" data-ngthumb="/img/35A9717.jpg"></a>
+      <a href="/img/35A9717.jpg" data-ngthumb="/img/35A9641.jpg"></a>
 </div>
 
 # 什麼是啤酒花

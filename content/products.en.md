@@ -20,7 +20,7 @@ Humanity has lived alongside yeast for thousands of years. It gave our bread its
 <div class="gallery">
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg"></a>
       <a href="/img/IMG_4164.jpg" data-ngthumb="/img/IMG_4164.jpg"></a>
-      <a href="/img/35A9717.jpg" data-ngthumb="/img/35A9717.jpg"></a>
+      <a href="/img/35A9717.jpg" data-ngthumb="/img/35A9641.jpg"></a>
 </div>
 
 # What is hops
