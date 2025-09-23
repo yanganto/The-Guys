@@ -12,9 +12,9 @@ Over the years, we have worked closely with many brewers and witnessed how craft
 In addition, we are also committed to the world of spirits, supporting distillers with a wide range of resources for distillation. From whisky and brandy to other distinctive spirits, we offer tailor made solutions to meet different customer needs.
 Looking ahead, we will continue to supply high-quality ingredients, share knowledge, and stay closely connected with the industry. No matter how the market evolves, The Guys is dedicated to providing your journey.
 
-## Trademark
+## Trademark and Products
 <div class="gallery">
-      <a href="/img/LOGO.png" data-ngthumb="/img/LOGO.png">樂凱斯的商標</a>
+      <a href="/img/trademark.png" data-ngthumb="/img/trademark.png">Trademark</a>
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg">樂凱斯的產品</a>
       <a href="/img/35A0076.jpg" data-ngthumb="/img/35A0076.jpg">樂凱斯的產品</a>
 </div>
