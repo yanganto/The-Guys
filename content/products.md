@@ -1,6 +1,7 @@
 +++
 title = "產品服務"
 date = 2025-09-22
+weight = 2
 description = "啤酒的靈魂"
 extra = {header_img = "IMG_3800.jpg"}
 +++
@@ -11,6 +12,14 @@ extra = {header_img = "IMG_3800.jpg"}
 # 啤酒花
 ## 什麼是啤酒花
 	啤酒花是釀造啤酒不可或缺的原料，不僅僅是植物，是啤酒的靈魂。它帶來啤酒裡的苦味、香氣與平衡感。從清爽的花香、柑橘香，到濃郁的松木或熱帶水果香，都來自不同品種的啤酒花。
+
+<div class="gallery">
+      <a href="/img/IMG_6172.jpg" data-ngthumb="/img/IMG_6172.jpg"></a>
+      <a href="/img/IMG_4192.jpg" data-ngthumb="/img/IMG_4192.jpg"></a>
+      <a href="/img/IMG_6212.jpg" data-ngthumb="/img/IMG_6212.jpg"></a>
+</div>
+
 	介紹啤酒花採收的工藝
+
 ## 什麼是Cryo
 	介紹Cryo酒花的優勢
