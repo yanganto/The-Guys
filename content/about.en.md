@@ -14,7 +14,7 @@ Looking ahead, we will continue to supply high-quality ingredients, share knowle
 
 ## Trademark
 <div class="gallery">
-      <a href="/LOGO.png" data-ngthumb="/LOGO.png">樂凱斯的商標</a>
+      <a href="/img/LOGO.png" data-ngthumb="/img/LOGO.png">樂凱斯的商標</a>
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg">樂凱斯的產品</a>
       <a href="/img/35A0076.jpg" data-ngthumb="/img/35A0076.jpg">樂凱斯的產品</a>
 </div>

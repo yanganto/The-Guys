@@ -26,8 +26,8 @@
         buildInputs = with pkgs; [ zola ];
       });
       packages = {
-        default =  pkgs.callPackage ./nix/package.nix { source = self; build-params = ""; };
-        dev =  pkgs.callPackage ./nix/package.nix { source = self; build-params = "-u https://yanganto.github.io/The-Guys/"; };
+        default =  pkgs.callPackage ./nix/package.nix { source = self;};
+        dev =  pkgs.callPackage ./nix/package.nix { source = self; sub-path = "https://yanganto.github.io/The-Guys/"; };
       };
     }
   );
