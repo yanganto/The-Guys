@@ -12,7 +12,7 @@ extra = {header_img = "IMG_6172.jpg"}
 
 ## 樂凱斯的商標與產品
 <div class="gallery">
-      <a href="/img/LOGO.png" data-ngthumb="/img/LOGO.png">樂凱斯的商標</a>
+      <a href="/img/trademark.png" data-ngthumb="/img/trademark.png">樂凱斯的商標</a>
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg">樂凱斯的產品</a>
       <a href="/img/35A0076.jpg" data-ngthumb="/img/35A0076.jpg">樂凱斯的產品</a>
 </div>
