@@ -14,8 +14,7 @@ We provide yeast, hops, and other raw materials, along with related services, wh
 
 _“We make the wort, but yeast makes the beer.”_
 
-It’s not to downplay the brewer’s craft, but to recognize the vital role yeast plays in fermentation. This humble microorganism can be the difference between a smooth, consistent brew—or a flawed one.
-Humanity has lived alongside yeast for thousands of years. It gave our bread its rise, and it shaped the flavors of wine, beer, spirits, and countless other fermented drinks. Since the Industrial Revolution, we’ve been uncovering its secrets, harnessing its abilities, and even today we’re still learning just how much this tiny fungus can do for us.
+it’s just a reminder that yeast is really the one calling the shots during fermentation. Quality in the glass? Yeah, that’s up to those tiny fungi. Humanity’s been riding on yeast’s shoulders for thousands of years: fluffy bread, fine wine, crisp lagers, bold spirits… all of it, thanks to yeast quietly doing its job. We’ve been trying to figure it out since the Industrial Revolution, and guess what? We’re still just scratching the surface of what it can do.
 
 <div class="gallery">
       <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg"></a>
@@ -23,9 +22,11 @@ Humanity has lived alongside yeast for thousands of years. It gave our bread its
       <a href="/img/35A9717.jpg" data-ngthumb="/img/35A9641.jpg"></a>
 </div>
 
-# What is hops
+# Hops
 
-Hops are the soul of beer. Each variety adds its own character, from delicate floral and citrus notes to bold pine or tropical fruit flavors. Behind every harvest lies the growers’ skill and experience: breeding, cultivating, picking, drying, pelletizing, and careful packaging. And when these hops meet the creativity and dedication of brewers, they become the essence of every glass of beer we enjoy.
+_"Hops are the soul of beer."_
+
+Each variety tells its own story — floral, citrus, pine, or tropical. Every harvest carries the craft of growers, and in brewers’ hands, hops become the essence of the beers we share.
 
 <div class="gallery">
       <a href="/img/IMG_6172.jpg" data-ngthumb="/img/IMG_6172.jpg"></a>
