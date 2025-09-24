@@ -3,12 +3,15 @@
 // HTML fix for large screens
 
 html, body {
-    min-height: 100vh;
+  min-height: 100vh;
+}
+body{
+  background-color: $andromeda-light;
 }
 
 // Eventually, let's make this a canvas element with some fancy text. For now, contrasty.
 #index-header {
-    background-color: $andromeda-dark;
+    background-color: white;
     height: 7em;
     margin-bottom: 1em;
     position: relative;
@@ -30,7 +33,7 @@ html, body {
         display: inline-block;
         a {
             text-decoration: none;
-            color: $andromeda-light;
+            color: $andromeda-dark;
             font-family: "Orbitron";
             font-weight: 800;
         }
@@ -43,7 +46,7 @@ html, body {
         display: inline-block;
         .header-link {
             text-decoration: none;
-            color: $andromeda-light;
+            color: $andromeda-dark;
             margin-bottom: 1em;
             margin-left: 2em;
             transition: 0.5s;
@@ -87,8 +90,8 @@ html, body {
         text-align: center;
         overflow: hidden;
         position: relative;
-        filter: brightness(100%);
-        -webkit-filter: brightness(100%);
+        filter: brightness(70%);
+        -webkit-filter: brightness(70%);
         -webkit-transition: all 1s ease;
         -moz-transition: all 1s ease;
         -o-transition: all 1s ease;
@@ -126,8 +129,8 @@ html, body {
         }
     }
     .post-container:hover {
-        -webkit-filter: brightness(70%);
-        filter: brightness(70%);
+        -webkit-filter: brightness(100%);
+        filter: brightness(100%);
     }
 }
 
