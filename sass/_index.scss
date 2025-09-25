@@ -87,8 +87,8 @@ html, body {
         text-align: center;
         overflow: hidden;
         position: relative;
-        filter: brightness(100%);
-        -webkit-filter: brightness(100%);
+        filter: brightness(70%);
+        -webkit-filter: brightness(70%);
         -webkit-transition: all 1s ease;
         -moz-transition: all 1s ease;
         -o-transition: all 1s ease;
@@ -126,8 +126,8 @@ html, body {
         }
     }
     .post-container:hover {
-        -webkit-filter: brightness(70%);
-        filter: brightness(70%);
+        -webkit-filter: brightness(100%);
+        filter: brightness(100%);
     }
 }
 
