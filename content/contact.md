@@ -1,14 +1,10 @@
 +++
-title = "Solutions"
+title = "聯絡我們"
 date = 2025-09-24
 weight = 5
 description = ""
-extra = {header_img = "IMG_4159.jpg"}
+extra = {header_img = "contact.jpg"}
 +++
-
-# Solutions
-
-Let us know your brewing needs. You come, we talk, let’s be friends.
 
 * Facebook [https://www.facebook.com/theguystrading](https://www.facebook.com/theguystrading)
 * Line @theguystaiwan

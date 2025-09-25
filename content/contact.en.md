@@ -1,14 +1,10 @@
 +++
-title = "解決方案"
+title = "Contact Us"
 date = 2025-09-24
 weight = 5
 description = ""
-extra = {header_img = "IMG_4159.jpg"}
+extra = {header_img = "contact.jpg"}
 +++
-
-# 解決方案
-
-釀酒的路上總有新的挑戰，如果有什麼想聊的，隨時找我們。         
 
 * Facebook [https://www.facebook.com/theguystrading](https://www.facebook.com/theguystrading)
 * Line @theguystaiwan

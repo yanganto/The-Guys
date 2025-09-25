@@ -43,3 +43,7 @@ Each variety tells its own story — floral, citrus, pine, or tropical. Every ha
       <a href="/img/IMG_6184.jpg" data-ngthumb="/img/IMG_6184.jpg"></a>
       <a href="/img/IMG_6212.jpg" data-ngthumb="/img/IMG_6212.jpg"></a>
 </div>
+
+# Solutions
+
+Let us know your brewing needs. You come, we talk, let’s be friends.

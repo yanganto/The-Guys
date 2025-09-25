@@ -43,3 +43,8 @@ _「釀造啤酒不可或缺的靈魂。」_
       <a href="/img/IMG_6184.jpg" data-ngthumb="/img/IMG_6184.jpg"></a>
       <a href="/img/IMG_6212.jpg" data-ngthumb="/img/IMG_6212.jpg"></a>
 </div>
+
+# 解決方案
+
+釀酒的路上總有新的挑戰，如果有什麼想聊的，隨時找我們。         
+
