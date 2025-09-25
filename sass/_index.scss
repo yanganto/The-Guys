@@ -119,10 +119,18 @@ html, body {
         }
         .post-text {
             position: absolute;
-            bottom: 0;
-            text-align: center;
+            top: 0;
+            text-align: left;
             width: 100%;
-            margin-bottom: 1em;
+            margin-top: 1em;
+            margin-left: 1em;
+            font-size: 1.5em;
+            .post-description {
+              display: none;
+            }
+            .post-date {
+              display: none;
+            }
         }
     }
     .post-container:hover {

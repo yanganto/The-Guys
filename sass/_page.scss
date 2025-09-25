@@ -49,9 +49,14 @@ $mobile-width: 80%;
     margin-right: 0.5em;
 }
 .page-description {
+    visibility: hidden;
     font-size: 1.5em;
     font-style: italic;
     padding: 0.5em;
+}
+
+.page-date {
+  visibility: hidden;
 }
 
 // Body setup - body text in center blocks, images are full width
