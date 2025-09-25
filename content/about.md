@@ -3,17 +3,20 @@ title = "關於我們"
 date = 2025-09-22
 weight = 1
 description = "緣起"
-extra = {header_img = "IMG_6172.jpg"}
+extra = {header_img = "IMG_1742.jpg"}
 +++
 
 # 關於樂凱斯
 樂凱斯成立於 2018 年，正是台灣精釀啤酒快速成長的時期。我們從第一天就專注在提供可靠的原料與專業服務，希望能在產業發展的過程中，成為酒廠實在的合作夥伴。這些年來，我們和許多釀酒師一起面對挑戰、嘗試新的想法，也見證了精釀啤酒在台灣逐漸被更多人認識與喜愛。對我們來說，陪伴產業一同成長，比追求快速擴張更為重要。一個人跑得快，一群人跑得遠，我們立志成為您的陪跑員，讓更多的好酒能被釀出來、被看見、被喜愛。
 除此之外，我們同樣深耕於烈酒領域，提供蒸餾酒釀造中不可或缺的相關原料。從威士忌、白蘭地到其他特色烈酒，我們都能依照不同的風格與風味需求，推薦合適的品項與解決方案。展望未來，我們將持續引進優質原料，分享專業知識，並保持與產業的緊密連結。無論市場如何變化，樂凱斯都希望在每一段釀造旅程中，提供穩定、實在的支持，和大家一起讓台灣的釀酒故事寫得更長、更遠。
 
-## 樂凱斯的商標與產品
 <div class="gallery">
-      <a href="/img/trademark.png" data-ngthumb="/img/trademark.png">樂凱斯的商標</a>
-      <a href="/img/IMG_1884.jpg" data-ngthumb="/img/IMG_1884.jpg">樂凱斯的產品</a>
-      <a href="/img/35A0076.jpg" data-ngthumb="/img/35A0076.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_1742.jpg" data-ngthumb="/img/IMG_1742.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_4753.jpg" data-ngthumb="/img/IMG_4753.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_5988.jpg" data-ngthumb="/img/IMG_5988.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_6027.jpg" data-ngthumb="/img/IMG_6027.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_6030.jpg" data-ngthumb="/img/IMG_6030.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_8196.jpg" data-ngthumb="/img/IMG_8196.jpg">樂凱斯的產品</a>
+      <a href="/img/IMG_8238.jpg" data-ngthumb="/img/IMG_8238.jpg">樂凱斯的產品</a>
 </div>
 
