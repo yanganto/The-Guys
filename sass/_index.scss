@@ -8,9 +8,11 @@ html, body {
 
 // Eventually, let's make this a canvas element with some fancy text. For now, contrasty.
 #index-header {
-    background-color: $andromeda-dark;
-    height: 7em;
+    background-image: url('/img/header-600.svg');
+    height: 80px;
+    background-size: 100%;
     margin-bottom: 1em;
+    background-position: top;
     position: relative;
     #stars {
         position: absolute;
@@ -72,6 +74,39 @@ html, body {
     .float-left {
         float: left;
     }
+}
+@media only screen and (min-width: 600px) {
+    #index-header {
+      height: 164px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #index-header {
+      background-image: url('/img/header-768.svg');
+    }
+}
+@media only screen and (min-width: 992px) {
+    #index-header {
+      background-image: url('/img/header-992.svg');
+      height: 214px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    #index-header {
+      background-image: url('/img/header-1200.svg');
+      height: 250px;
+    }
+}
+@media only screen and (min-width: 1800px) {
+  #index-header {
+    background-position: center;
+    height: 300px;
+  }
+}
+@media only screen and (min-width: 2400px) {
+  #index-header {
+    height: 350px;
+  }
 }
 
 .posts {
