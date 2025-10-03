@@ -3,7 +3,7 @@ title = "Activities"
 date = 2025-09-24
 weight = 4
 description = ""
-extra = {header_img = "2f9a8f2562fb2069a4a872ae01b1acd8.jpg"}
+extra = {header_img = "activity.jpg"}
 +++
 
 # Activities

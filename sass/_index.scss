@@ -17,58 +17,49 @@ html, body {
 }
 #nav {
   height: 32px;
-  div {
-    span {
-        top:-0.2em;
-        position: relative;
-        display: inline-block;
-        .header-link {
-            text-decoration: none;
-            color: $andromeda-dark;
-            margin-bottom: 1em;
-            margin-left: 2em;
-            transition: 0.5s;
-            font-size: 2em;
-            font-family: "Montserrat";
-        }
-        .header-link:hover {
-            color: $andromeda-light-dark;
-        }
-        .bw {
-            -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-                    filter: grayscale(100%);
-        }
-        .invert {
-            -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
-                    filter: invert(100%);
-        }
-        img {
-            width: 30px;
-            height: 30px;
-        }
-    }
+  width: 100%;
+  span {
+      float: right;
+      top:-0.2em;
+      position: relative;
+      display: inline-block;
+      .header-link {
+          text-decoration: none;
+          color: $andromeda-dark;
+          margin-bottom: 1em;
+          margin-right: 2em;
+          transition: 0.5s;
+          font-size: 1.15em;
+          font-family: "Montserrat";
+      }
+      .header-link:hover {
+          color: $andromeda-light-dark;
+      }
+      .bw {
+          -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+                  filter: grayscale(100%);
+      }
+      .invert {
+          -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+                  filter: invert(100%);
+      }
+      img {
+          width: 30px;
+          height: 30px;
+      }
   }
 }
 @media only screen and (min-width: 600px) {
   #index-header {
     height: 164px;
   }
-  #nav {
-    div {
-      float: right;
-      margin-left: 10%;
-      span {
-        margin-right: 30px;
-      }
-    }
-  }
 }
 @media only screen and (min-width: 768px) {
   #index-header {
     background-image: url('/img/header-768.svg');
   }
-  #nav {
-    height: 36px;
+  .content {
+    min-height: calc(100vh - 350px - 3em);
   }
 }
 @media only screen and (min-width: 992px) {
@@ -76,19 +67,14 @@ html, body {
     background-image: url('/img/header-992.svg');
     height: 214px;
   }
-  #nav {
-    height: 50px;
-  }
 }
 @media only screen and (min-width: 1200px) {
   #index-header {
     background-image: url('/img/header-1200.svg');
     height: 250px;
   }
-}
-@media only screen and (min-width: 1280px) {
   .content {
-    min-height: calc(100vh - 350px - 11em);
+    min-height: calc(100vh - 350px - 10em);
   }
 }
 @media only screen and (min-width: 1800px) {

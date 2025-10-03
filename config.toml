@@ -12,8 +12,8 @@ title = "THE GUYS"
 
 [extra]
 header_links = [
-    {name = "about", path = "about", display = { en = "About", zh-Hant = "我們" }},
-    {name = "contact", path = "contact", display = { en = "Contact", zh-Hant = "聯絡" }},
+    {name = "about", path = "about", display = { en = "About", zh-Hant = "關於我們" }},
+    {name = "contact", path = "contact", display = { en = "Contact", zh-Hant = "聯絡我們" }},
     {name = "lang", path = "", display = { en = "中文", zh-Hant = "EN" }, switch_lang = {en = "zh-Hant", zh-Hant = "en" } }
 ]
 
