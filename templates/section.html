@@ -7,19 +7,20 @@
 
     <body>
         <div id="index-header">
-            <h1 class="andromeda-header-text">
-                <a href="{{ get_url(path='', lang=lang) }}">{{ config.title }}</a>
-            </h1>
-            <span class="header-link-container">
-                {% for link in config.extra.header_links %}
-                {% if link.switch_lang  %}
-                    <a href="{{ get_url(path=link.path, lang=link.switch_lang[lang]) }}" class="header-link">{{ link.display[lang] }}</a>
-                {% else %}
-                    <a href="{{ get_url(path=link.path, lang=lang) }}" class="header-link">{{ link.display[lang] }}</a>
-                {% endif %}
+        </div>
+        <div id="nav">
+            <div>
+                <span class="header-link-container">
+                    {% for link in config.extra.header_links %}
+                    {% if link.switch_lang  %}
+                        <a href="{{ get_url(path=link.path, lang=link.switch_lang[lang]) }}" class="header-link">{{ link.display[lang] }}</a>
+                    {% else %}
+                        <a href="{{ get_url(path=link.path, lang=lang) }}" class="header-link">{{ link.display[lang] }}</a>
+                    {% endif %}
 
-                {% endfor %}
-            </span>
+                    {% endfor %}
+                </span>
+            </div>
         </div>
         <div class="content">
             {% block content %}

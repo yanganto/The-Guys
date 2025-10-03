@@ -12,9 +12,9 @@ title = "THE GUYS"
 
 [extra]
 header_links = [
-    {name = "about", path = "about", display = { en = "About us", zh-Hant = "關於我們" }},
-    {name = "product", path = "products", display = { en = "Products & Services", zh-Hant = "產品服務" }},
-    {name = "lang", path = "", display = { en = "中文", zh-Hant = "English" }, switch_lang = {en = "zh-Hant", zh-Hant = "en" } }
+    {name = "about", path = "about", display = { en = "About", zh-Hant = "我們" }},
+    {name = "contact", path = "contact", display = { en = "Contact", zh-Hant = "聯絡" }},
+    {name = "lang", path = "", display = { en = "中文", zh-Hant = "EN" }, switch_lang = {en = "zh-Hant", zh-Hant = "en" } }
 ]
 
 # license = "CC BY-NC 2.0"
