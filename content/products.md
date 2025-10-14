@@ -38,7 +38,6 @@ _「釀造啤酒不可或缺的靈魂。」_
       <a href="/img/IMG_6169.jpg" data-ngthumb="/img/IMG_6169.jpg"></a>
       <a href="/img/IMG_6171.jpg" data-ngthumb="/img/IMG_6171.jpg"></a>
       <a href="/img/IMG_6172.jpg" data-ngthumb="/img/IMG_6172.jpg"></a>
-      <a href="/img/IMG_6173.jpg" data-ngthumb="/img/IMG_6173.jpg"></a>
       <a href="/img/IMG_6175.jpg" data-ngthumb="/img/IMG_6175.jpg"></a>
       <a href="/img/IMG_6184.jpg" data-ngthumb="/img/IMG_6184.jpg"></a>
       <a href="/img/IMG_6212.jpg" data-ngthumb="/img/IMG_6212.jpg"></a>

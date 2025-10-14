@@ -12,6 +12,7 @@
       find . -type f -exec sed -i 's#"/img#"${sub-path}img#g' {} \;
       cd ../sass
       find . -type f -exec sed -i 's#/img#${sub-path}img#g' {} \;
+      find . -type f -exec sed -i 's#/fonts#${sub-path}fonts#g' {} \;
       cd ..
       ${zola}/bin/zola build -u ${sub-path}
     '';

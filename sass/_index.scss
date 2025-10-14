@@ -9,7 +9,7 @@ html, body {
 // Eventually, let's make this a canvas element with some fancy text. For now, contrasty.
 #index-header {
     background-image: url('/img/header-600.svg');
-    height: 80px;
+    height: 120px;
     background-size: 100%;
     margin-bottom: 1em;
     background-position: top;
@@ -30,7 +30,7 @@ html, body {
           margin-right: 2em;
           transition: 0.5s;
           font-size: 1.15em;
-          font-family: "Montserrat";
+          font-family: "Sans Serif";
       }
       .header-link:hover {
           color: $andromeda-light-dark;
@@ -57,6 +57,7 @@ html, body {
 @media only screen and (min-width: 768px) {
   #index-header {
     background-image: url('/img/header-768.svg');
+    height: 200px;
   }
   .content {
     min-height: calc(100vh - 350px - 3em);
