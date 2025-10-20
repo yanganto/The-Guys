@@ -11,4 +11,4 @@ extra = {header_img = "IMG_9093.jpg"}
 
 <img src="/img/LineQR.png" style="width: 300px; margin-left: 20%;" />
 
-* Email [info@theguystrading.com.tw](mailto:info@theguystrading.com.tw)
+* Email [info@theguystrading.com](mailto:info@theguystrading.com)
