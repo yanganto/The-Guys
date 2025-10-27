@@ -9,10 +9,11 @@
     else
     ''
       cd content
-      find . -type f -exec sed -i 's#"/img#"${sub-path}img#g' {} \;
+      find . -type f -exec sed -i 's#"/img/#"${sub-path}img/#g' {} \;
+      find . -type f -exec sed -i 's#"/logo/#"${sub-path}logo/#g' {} \;
       cd ../sass
-      find . -type f -exec sed -i 's#/img#${sub-path}img#g' {} \;
-      find . -type f -exec sed -i 's#/fonts#${sub-path}fonts#g' {} \;
+      find . -type f -exec sed -i 's#/img/#${sub-path}img/#g' {} \;
+      find . -type f -exec sed -i 's#/fonts/#${sub-path}fonts/#g' {} \;
       cd ..
       ${zola}/bin/zola build -u ${sub-path}
     '';
