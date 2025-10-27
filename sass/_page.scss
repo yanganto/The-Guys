@@ -177,6 +177,11 @@ iframe {
     iframe {
         max-width: $desktop-width !important;
     }
+    #customers {
+      width: 60%;
+      margin-left:20%;
+      margin-right:20%;
+    }
 }
 @media only screen and (max-width: 900px) {
     .body-container {
@@ -198,4 +203,8 @@ iframe {
 // Customers
 .customers {
   cursor: pointer;
+}
+.customers-frame {
+  width: 176px;
+  height: 176px;
 }

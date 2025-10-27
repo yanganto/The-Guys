@@ -6,7 +6,7 @@ description = "Essentials of Beer"
 extra = {header_img = "IMG_3800.jpg"}
 +++
 
-# What is yeast
+# Yeast
 
 _“We make the wort, but yeast makes the beer.”_
 
