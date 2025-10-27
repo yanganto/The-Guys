@@ -6,7 +6,7 @@ description = ""
 extra = {header_img = "IMG_9093.jpg"}
 +++
 
-* Facebook [https://www.facebook.com/theguystrading](https://www.facebook.com/theguystrading)
+* [我們的臉書](https://www.facebook.com/theguystrading)
 * Line @theguystaiwan
 
 <img src="/img/LineQR.png" style="width: 300px; margin-left: 20%;" />
